@@ -1,0 +1,18 @@
+.footer {
+  background-color: #1a252f; /* Tom cinza-escuro profissional */
+    color: #ffffff;
+    text-align: center;
+    padding: 25px 20px;
+  margin-top: auto; /* Empurra o footer para o final da página */
+  border-top: 3px solid #005b94; /* Detalhe com o azul do hospital */
+}
+
+.footer p {
+    margin: 5px 0;
+    font-size: 1rem;
+}
+
+.footer-info {
+    font-size: 0.85rem;
+  color: #bdc3c7; /* Cor de texto mais suave para informações secundárias */
+}

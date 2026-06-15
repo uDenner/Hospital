@@ -1,0 +1,6 @@
+.corpo-container { padding: 40px; max-width: 900px; margin: 0 auto; text-align: center; }
+.corpo-container h1 { color: #005b94; }
+.medicos-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-top: 30px; }
+.medico-card { padding: 20px; border: 1px solid #eee; border-radius: 8px; background: #fff; }
+.avatar { font-size: 40px; margin-bottom: 10px; }
+.medico-card p { color: #005b94; font-weight: bold; font-size: 14px; }
